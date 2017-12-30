@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Problem\040Statement}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{OASIS\040Dataset\040Exploration}{}% 3
+\BOOKMARK [1][-]{section.3}{Data\040Preprocessing}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Feature\040Extraction}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Visualization}{}% 6
+\BOOKMARK [1][-]{section.5}{Algorithms\040and\040Techniques}{}% 7
+\BOOKMARK [2][-]{subsection.5.1}{Metrics}{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.2}{Implementation}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Expriments\040and\040Results}{}% 10
+\BOOKMARK [2][-]{subsection.6.1}{Hyperparameters\040tuning}{section.6}% 11
+\BOOKMARK [1][-]{section.7}{Results}{}% 12
+\BOOKMARK [2][-]{subsection.7.1}{ANOVA\040test}{section.7}% 13
+\BOOKMARK [2][-]{subsection.7.2}{T-Test}{section.7}% 14
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 15
