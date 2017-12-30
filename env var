@@ -1,2 +1,0 @@
-export FREESURFER_HOME=/media/Ali/8A9E6F039E6EE6E3/freesurfer
-source $FREESURFER_HOME/SetUpFreeSurfer.sh
