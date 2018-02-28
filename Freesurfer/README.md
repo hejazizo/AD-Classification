@@ -26,7 +26,7 @@
 	sudo cp license.txt /usr/local/freesurfer
 	```
 
-5. export and source:
+5. Export and Source:
 	```
 	export FREESURFER_HOME=/usr/local/freesurfer
 	source $FREESURFER_HOME/SetUpFreeSurfer.sh
