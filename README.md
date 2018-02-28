@@ -15,4 +15,4 @@ Open Access Series of Imaging Studies (OASIS) dataset which is publicly availabl
 **Note:** You have to provide `subject_id` and `nii_file_path` in the `.py` file.
 
 ## Classification and Visualization
-Use the scripts in _Classification and Visualization_ folder to produce the dataset after preprocessing, visualize data, and apply classification techniques on the dataset.
+Follow the instructions in _Classification and Visualization_ folder to produce the dataset after preprocessing, visualize data, and apply classification techniques on the dataset.
