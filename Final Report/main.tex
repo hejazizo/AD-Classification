@@ -1,0 +1,56 @@
+\documentclass[journal]{IEEEtran}
+\input{structure.tex}
+
+
+\begin{document}
+
+\title{Alzheimer's Disease Diagnosis based on Structural MRI with Machine Learning Techniques}
+\author{Ali Hejazizo, hejazizo@ualberta.ca}
+
+
+% make the title area
+\maketitle
+
+
+\begin{abstract}
+%\boldmath
+There is not a specific test to diagnose Alzheimer's disease (AD). Its diagnosis should be based upon clinical history, neuropsychological and laboratory tests, neuroimaging and electroencephalography (EEG). Therefore, new approaches are necessary to enable earlier and more accurate diagnosis and to follow treatment results
+
+In this study we used Machine Learning techniques for AD diagnosis. We studied 199 subject of which 86 subjects were diagnosed to have AD. Three-dimensional T1-weighted magnetic resonance images of each subject were parcellated into regions of interest (ROIs). Based upon the volumetric characteristics extracted from each ROI, we use three different classifiers to classify the subjects and finally evaluate them in classification of whole-brain anatomical magnetic resonance imaging to discriminate between patients with AD and control subjects. The results demonstrate the effectiveness of using volumetric measurements to diagnose AD with high accuracy which provides a potential for early diagnosis of Alzheimers disease.
+
+\end{abstract}
+
+\begin{IEEEkeywords}
+Alzheimer's disease, magnetic resonance imaging, machine learning, classification
+\end{IEEEkeywords}
+
+
+\input{content.tex}
+
+
+
+
+
+% \appendices
+% \section{Proof of the First Zonklar Equation}
+% Some text for the appendix.
+
+% % use section* for acknowledgement
+% \section*{Acknowledgment}
+
+
+% The authors would like to thank...
+
+
+% Can use something like this to put references on a page
+% by themselves when using endfloat and the captionsoff option.
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY
+%----------------------------------------------------------------------------------------
+\bibliographystyle{unsrt}
+\bibliography{ref}
+
+\end{document}
+
+

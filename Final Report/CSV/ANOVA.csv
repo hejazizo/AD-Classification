@@ -1,0 +1,5 @@
+Test/Criterion,ANOVA
+Test Accuracy,0.9720
+AUC,0.9679
+Precision,0.9690
+Recall,0.9785
