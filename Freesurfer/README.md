@@ -31,3 +31,7 @@
 	export FREESURFER_HOME=/usr/local/freesurfer
 	source $FREESURFER_HOME/SetUpFreeSurfer.sh
 	```
+     Or use the `export.bash` file provided:
+     ```
+     source export.bash
+     ```
