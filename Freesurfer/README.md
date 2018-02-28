@@ -13,8 +13,8 @@
 	```
 
 4. SSH to host (Remember to add your machine in hosts)
-     - `sudo nano /etc/hosts`
-     - Add: `127.0.1.1 my-machine` in the file.
+     1. `sudo nano /etc/hosts`
+     2. Add: `127.0.1.1 my-machine` in the file.
      
 5. Change access permission to save preprocessed subjects data in subjects folder.
 	```
@@ -31,4 +31,3 @@
 	export FREESURFER_HOME=/usr/local/freesurfer
 	source $FREESURFER_HOME/SetUpFreeSurfer.sh
 	```
-
