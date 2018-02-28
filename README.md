@@ -14,4 +14,5 @@ Open Access Series of Imaging Studies (OASIS) dataset which is publicly availabl
 2. Run all preprocessing stages on .nii MRI files with `mri_preprocessing.py` file. <br />
 **Note:** You have to provide `subject_id` and `nii_file_path` in the `.py` file.
 
-## Feature Extraction
+## Classification and Visualization
+Use the scripts in _Classification and Visualization_ folder to produce the dataset after preprocessing, visualize data, and apply classification techniques on the dataset.
