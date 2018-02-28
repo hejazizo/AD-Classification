@@ -10,7 +10,6 @@
 *.pdfsync
 *.pyc
 *.synctex.gz
-*.txt
 *.zip
 *.pyc
 *.fls
