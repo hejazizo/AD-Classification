@@ -36,7 +36,7 @@ if len(sys.argv) > 1:
 path = '/media/Ali/8A9E6F039E6EE6E3/freesurfer/subjects'
 SUBJECTS = sorted([d for d in os.listdir(path) if os.path.isdir(os.path.join(path, d)) and d.startswith('sub')])
 
-if stats2data == 'stats2data':
+if stats2data == 'stats2features':
 
     # directories for output files
     outdirs = ['stats/aseg_stats', 'stats/r_aparc_stats', 'stats/l_aparc_stats']

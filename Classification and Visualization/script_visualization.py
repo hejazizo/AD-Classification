@@ -1,3 +1,4 @@
+import sys
 import matplotlib.pylab as plt
 import pandas as pd
 from mpl_toolkits.mplot3d import Axes3D
@@ -20,7 +21,7 @@ print('Number of classes: {0}'.format(n_classes))
 
 #############################################
 # path for output figures file
-images_path = './images'
+images_path = sys.argv[1]
 df = alzheimer_df
 font = {'size': 10}
 plt.rc('font', **font)
